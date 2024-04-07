@@ -1,11 +1,15 @@
-# web-scraping.repo --- 
-## web scraping study -- header 2##
-**understanding text editing** ----bold
-## list of names --list*
-* liz
-* john
-* cate
+# Web-scraping.repo --- 
+## Web scraping study -- header 2##
+**Understanding text editing** ----bold
+## List of names --list*
+* Liz
+* John
+* Cate
 * Auma
-* hellen
-
-- [ ] check list
+* Hellen
+**Checklist**
+- [ ] goat check list
+- [ ] chiken
+- [ ] Mat
+- [ ] Fish
+- [ ] Matton
